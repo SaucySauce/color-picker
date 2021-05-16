@@ -1,11 +1,9 @@
-# Color Picker Extension
+## Color Picker Extension
 
 Simple color picker for gnome shell with some backported fixes and features from GS40+ compatible upstream extension.
 
 [![license]](/LICENSE)
 </br>
-
-![picker](https://user-images.githubusercontent.com/17917040/109381547-08dee980-7916-11eb-8b7f-10f1cf090e8e.png)
 
 ## Installation
 
