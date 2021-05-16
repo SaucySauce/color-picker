@@ -14,7 +14,7 @@ Simple color picker for gnome shell.
 or manually:
 
 ```bash
-git clone https://github.com/tuberry/color-picker.git
+git clone https://github.com/SaucySauce/color-picker.git
 cd color-picker && make install
 # make mergepo # for translation, run `make clean` later to clean
 ```
